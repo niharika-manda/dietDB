@@ -1,0 +1,75 @@
+body {
+	color: #000;
+	margin: 0px;
+	font-size: 12px;
+	font-family:Arial, sans-serif;
+}
+A {
+  color: #0815bf;
+  text-decoration: none;
+}
+
+A:hover {
+  text-decoration: underline;
+}
+.msgSuccess {
+	font-size: 13px;
+	font-family:Arial, sans-serif;
+	color: #AAF12F;
+	font-weight: bold;
+	text-align: center;
+	background-color: #0815bf;
+	height: 20px;
+}
+.mainHeading {
+	font-size: 15px;
+	font-family:Arial, sans-serif;
+	color: #0815bf;
+	font-weight: bold;
+}
+.Heading {
+	font-size: 13px;
+	font-family:Arial, sans-serif;
+	color: #ffffff;
+	font-weight: bold;	
+	background-color: #0815bf;
+	height: 25px;
+}
+.textHeading {
+	font-size: 12px;
+	font-family:Arial, sans-serif;
+	font-weight: bold;
+}
+.textContent {
+	font-size: 12px;
+	font-family:Arial, sans-serif;
+}
+.tblborder {
+	border: #999999 solid 1px;
+	width:95%;
+}
+.tblborder-no {
+	border: #999999 solid 0px;
+	width:80%;
+}
+.tblborderuser {
+	border: #999999 solid 1px;
+	width:50%;
+}
+.tblborderuser-no {
+	border: #999999 solid 0px;
+	width:50%;
+}
+.inputSty {
+    background-color: aliceblue;
+    width: 70%;
+}
+.inputStyDt {
+    background-color: aliceblue;
+    width: 20%;
+}
+.pagination {
+    font-size: 16px;
+    font-weight: bold;
+	margin-left: 15px;
+}
